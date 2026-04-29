@@ -1,0 +1,6 @@
+c:\Users\Kira\Downloads\appPractic\SedPractice.Tests\bin\Release\net8.0\.msCoverageSourceRootsMapping_SedPractice.Tests
+c:\Users\Kira\Downloads\appPractic\SedPractice.Tests\obj\Release\net8.0\SedPractice.Tests.csproj.AssemblyReference.cache
+c:\Users\Kira\Downloads\appPractic\SedPractice.Tests\obj\Release\net8.0\SedPractice.Tests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kira\Downloads\appPractic\SedPractice.Tests\obj\Release\net8.0\SedPractice.Tests.AssemblyInfoInputs.cache
+c:\Users\Kira\Downloads\appPractic\SedPractice.Tests\obj\Release\net8.0\SedPractice.Tests.AssemblyInfo.cs
+c:\Users\Kira\Downloads\appPractic\SedPractice.Tests\obj\Release\net8.0\SedPractice.Tests.csproj.CoreCompileInputs.cache

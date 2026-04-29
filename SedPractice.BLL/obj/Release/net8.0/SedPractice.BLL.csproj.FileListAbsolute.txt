@@ -1,0 +1,17 @@
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\bin\Release\net8.0\SedPractice.BLL.deps.json
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\bin\Release\net8.0\SedPractice.BLL.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\bin\Release\net8.0\SedPractice.BLL.pdb
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\bin\Release\net8.0\SedPractice.DAL.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\bin\Release\net8.0\SedPractice.Domain.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\bin\Release\net8.0\SedPractice.Domain.pdb
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\bin\Release\net8.0\SedPractice.DAL.pdb
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\SedPractice.BLL.csproj.AssemblyReference.cache
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\SedPractice.BLL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\SedPractice.BLL.AssemblyInfoInputs.cache
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\SedPractice.BLL.AssemblyInfo.cs
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\SedPractice.BLL.csproj.CoreCompileInputs.cache
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\SedPract.7DE22746.Up2Date
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\SedPractice.BLL.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\refint\SedPractice.BLL.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\SedPractice.BLL.pdb
+c:\Users\Kira\Downloads\appPractic\SedPractice.BLL\obj\Release\net8.0\ref\SedPractice.BLL.dll

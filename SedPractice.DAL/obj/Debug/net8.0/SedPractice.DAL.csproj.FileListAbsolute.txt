@@ -1,0 +1,46 @@
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\bin\Debug\net8.0\SedPractice.DAL.deps.json
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\bin\Debug\net8.0\SedPractice.DAL.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\bin\Debug\net8.0\SedPractice.DAL.pdb
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\bin\Debug\net8.0\SedPractice.Domain.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\bin\Debug\net8.0\SedPractice.Domain.pdb
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.csproj.AssemblyReference.cache
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.AssemblyInfoInputs.cache
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.AssemblyInfo.cs
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\SedPract.69212FC5.Up2Date
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\refint\SedPractice.DAL.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.pdb
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.DAL\obj\Debug\net8.0\ref\SedPractice.DAL.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.DAL.deps.json
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.DAL.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.DAL.pdb
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.Domain.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.Domain.pdb
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.csproj.AssemblyReference.cache
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.AssemblyInfoInputs.cache
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.AssemblyInfo.cs
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.sourcelink.json
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPract.69212FC5.Up2Date
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\refint\SedPractice.DAL.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.pdb
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.DAL\obj\Debug\net8.0\ref\SedPractice.DAL.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.DAL.deps.json
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.DAL.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.DAL.pdb
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.Domain.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\bin\Debug\net8.0\SedPractice.Domain.pdb
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.AssemblyInfo.cs
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPract.69212FC5.Up2Date
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\refint\SedPractice.DAL.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\SedPractice.DAL.pdb
+C:\Users\HP\Downloads\appPractic\SedPractice.DAL\obj\Debug\net8.0\ref\SedPractice.DAL.dll

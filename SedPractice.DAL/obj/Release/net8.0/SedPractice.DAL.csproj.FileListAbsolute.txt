@@ -1,0 +1,15 @@
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\bin\Release\net8.0\SedPractice.DAL.deps.json
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\bin\Release\net8.0\SedPractice.DAL.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\bin\Release\net8.0\SedPractice.DAL.pdb
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\bin\Release\net8.0\SedPractice.Domain.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\bin\Release\net8.0\SedPractice.Domain.pdb
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\SedPractice.DAL.csproj.AssemblyReference.cache
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\SedPractice.DAL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\SedPractice.DAL.AssemblyInfoInputs.cache
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\SedPractice.DAL.AssemblyInfo.cs
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\SedPractice.DAL.csproj.CoreCompileInputs.cache
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\SedPract.69212FC5.Up2Date
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\SedPractice.DAL.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\refint\SedPractice.DAL.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\SedPractice.DAL.pdb
+c:\Users\Kira\Downloads\appPractic\SedPractice.DAL\obj\Release\net8.0\ref\SedPractice.DAL.dll
