@@ -1,0 +1,3 @@
+c:\Users\Kira\Downloads\appPractic\SedPractice.Domain\bin\Release\net8.0\publish\SedPractice.Domain.dll
+c:\Users\Kira\Downloads\appPractic\SedPractice.Domain\bin\Release\net8.0\publish\SedPractice.Domain.deps.json
+c:\Users\Kira\Downloads\appPractic\SedPractice.Domain\bin\Release\net8.0\publish\SedPractice.Domain.pdb

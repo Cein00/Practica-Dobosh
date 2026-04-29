@@ -1,0 +1,52 @@
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\bin\Debug\net8.0\SedPractice.BLL.deps.json
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\bin\Debug\net8.0\SedPractice.BLL.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\bin\Debug\net8.0\SedPractice.BLL.pdb
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\bin\Debug\net8.0\SedPractice.DAL.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\bin\Debug\net8.0\SedPractice.Domain.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\bin\Debug\net8.0\SedPractice.Domain.pdb
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\bin\Debug\net8.0\SedPractice.DAL.pdb
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.csproj.AssemblyReference.cache
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.AssemblyInfoInputs.cache
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.AssemblyInfo.cs
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\SedPract.7DE22746.Up2Date
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\refint\SedPractice.BLL.dll
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.pdb
+C:\Users\Kira\Downloads\SED_Practice_WinForms\SedPractice.BLL\obj\Debug\net8.0\ref\SedPractice.BLL.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.BLL.deps.json
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.BLL.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.BLL.pdb
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.DAL.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.Domain.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.Domain.pdb
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.DAL.pdb
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.csproj.AssemblyReference.cache
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.AssemblyInfoInputs.cache
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.AssemblyInfo.cs
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.sourcelink.json
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPract.7DE22746.Up2Date
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\refint\SedPractice.BLL.dll
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.pdb
+C:\Users\Kira\Desktop\рактика апрель\Educational-practic\appPractic\SedPractice.BLL\obj\Debug\net8.0\ref\SedPractice.BLL.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.BLL.deps.json
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.BLL.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.BLL.pdb
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.DAL.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.Domain.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.Domain.pdb
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\bin\Debug\net8.0\SedPractice.DAL.pdb
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.AssemblyInfo.cs
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPract.7DE22746.Up2Date
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\refint\SedPractice.BLL.dll
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\SedPractice.BLL.pdb
+C:\Users\HP\Downloads\appPractic\SedPractice.BLL\obj\Debug\net8.0\ref\SedPractice.BLL.dll
